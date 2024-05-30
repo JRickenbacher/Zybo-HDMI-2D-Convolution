@@ -10,7 +10,7 @@
 !repo/
 !sdk/
 !src/
-
+!ip_repo/
 #Digilent Added ignore rules for Vivado projects
 
 # sdk exclusions
